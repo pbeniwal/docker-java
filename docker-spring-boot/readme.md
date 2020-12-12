@@ -1,10 +1,10 @@
 ## What is it?
-This source code is an Spring Boot web application (mvc + thymeleaf).
+This source code is an Spring Boot web application .
  
 Tested with
 * Docker 19.03
 * Ubuntu 19
-* Java 8 or Java 11
+* Java 8
 * Spring Boot 2.2.4.RELEASE
 * Maven
 
